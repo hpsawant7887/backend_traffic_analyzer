@@ -2,6 +2,7 @@
 This application/tool `backend_traffic_analyzer` gathers and aggregates status report from given list of endpoints and writes the aggregated report to STDOUT and to a local log file
 
 ##  Package Structure
+```
 ├─- bin
 │ ├── __init__.py
 │ └── get_app_success_rate.py
@@ -15,6 +16,7 @@ This application/tool `backend_traffic_analyzer` gathers and aggregates status r
 ├── README.md
 ├── servers.txt
 └── setup.py
+```
 
 ## Description of files in Package
 
